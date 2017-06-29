@@ -28,7 +28,6 @@ public class RepositorioUsuarios implements IRepositorioUsuarios {
 				return usuarios.get(i);
 			}
 		}
-
 		return null;
 	}
 
